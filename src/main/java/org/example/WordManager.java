@@ -35,7 +35,7 @@ public class WordManager {
                 break;
             }
             if(menu==4) {
-                wordCRUD.addWord();
+                wordCRUD.addItem(); // 통일성을 위해 이름 변경
             }
             else if(menu==1) {
                 wordCRUD.listAll();
@@ -44,7 +44,7 @@ public class WordManager {
                 wordCRUD.updateItem();
             }
             else if(menu==6) { //delete
-                wordCRUD.listAll();
+                wordCRUD.deleteItem();
             }
         }
     }
