@@ -45,11 +45,14 @@ public class Word {
     }
 
     @Override
-    public String toString() {
+    public String toString() { //화면에 출력하기 위해 만들었다.
         String slevel = "";
         for(int i=0;i<level;i++) slevel += "*";
         String str = String.format("%-3s", slevel)
                 + String.format("%15s", word) + "  " + meaning  ;
         return str;
+    }
+    public String toFileString(){
+        return this.level + "|" + this.word + "|" + this.meaning;
     }
 }
