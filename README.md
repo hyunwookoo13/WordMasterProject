@@ -16,3 +16,5 @@
 # [7.파일저장] 실행 화면
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/save.png?raw=true">
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/dictionary.png?raw=true">
+# [파일출력확인] 실행 화면
+<img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/updatacheck.png?raw=true">
