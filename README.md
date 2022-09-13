@@ -7,3 +7,5 @@
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/%E1%84%82%E1%85%A1%E1%84%80%E1%85%A1%E1%84%80%E1%85%B5.png?raw=true">
 # [수준별 단어보기] 실행 화면
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/searchLevel.png?raw=true">
+# [단어 검색] 실행 화면 
+<img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/searchWord.png?raw=true">
