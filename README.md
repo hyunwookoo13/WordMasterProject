@@ -13,3 +13,6 @@
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/updateitem.png?raw=true">
 # [6.단어 삭제] 실행 화면
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/deleteitem.png?raw=true">
+# [7.파일저장] 실행 화면
+<img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/save.png?raw=true">
+<img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/dictionary.png?raw=true">
