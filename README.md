@@ -11,3 +11,5 @@
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/searchWord.png?raw=true">
 # [5.단어 수정] 실행 화면
 <img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/updateitem.png?raw=true">
+# [6.단어 삭제] 실행 화면
+<img src="https://github.com/hyunwookoo13/WordMasterProject/blob/master/screenshot/deleteitem.png?raw=true">
